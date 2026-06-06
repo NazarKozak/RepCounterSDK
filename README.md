@@ -1,5 +1,11 @@
 # RepKit
 
+[![CI](https://github.com/NazarKozak/RepKit/actions/workflows/ci.yml/badge.svg)](https://github.com/NazarKozak/RepKit/actions/workflows/ci.yml)
+![Swift 6](https://img.shields.io/badge/Swift-6-orange.svg)
+![Platforms](https://img.shields.io/badge/Platforms-iOS%2017%2B%20%7C%20macOS%2012%2B-blue.svg)
+![SPM](https://img.shields.io/badge/SwiftPM-compatible-brightgreen.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 **Count exercise reps on-device, for free — no SDK key, no cloud.**
 
 RepKit turns Apple Vision body-pose landmarks into rep counts and form feedback. It's the open, MIT-licensed alternative to paid pose-fitness SDKs: everything runs on the Neural Engine, nothing leaves the phone, and there's no key to register.

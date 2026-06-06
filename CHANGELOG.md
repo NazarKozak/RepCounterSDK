@@ -3,7 +3,7 @@
 All notable changes to RepKit are documented here. Format follows
 [Keep a Changelog](https://keepachangelog.com/); versions follow SemVer.
 
-## [Unreleased]
+## [0.2.0] - 2026-06-06
 
 ### Added
 - Exercises: `.lunge`, `.bicepCurl`, `.shoulderPress`.
